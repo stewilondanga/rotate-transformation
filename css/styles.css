@@ -136,12 +136,12 @@ td {
   transform: translateY(45%);
 }
 
-/*.translateZ {
+.translateZ {
   -webkit-transform: translateZ(45%);
-          transform: translateZ(45%);
+  transform: translateZ(45%);
 }
 
-.rotateX {
+/*.rotateX {
   -webkit-transform: rotateX(45deg);
           transform: rotateX(45deg);
 }
