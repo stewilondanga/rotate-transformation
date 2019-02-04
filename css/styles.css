@@ -75,12 +75,12 @@ tr>td {
   border: 2px solid #fff;
 }
 
-/*td {
+td {
   padding: 5px;
   white-space: nowrap;
 }
 
-.header {
+/*.header {
   width: 175px;
   background: #fff;
   font-family: 'Raleway', sans-serif;
