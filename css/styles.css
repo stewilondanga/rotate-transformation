@@ -171,12 +171,12 @@ td {
   transform: skew(15deg, 45deg);
 }
 
-/*.scaleX {
+.scaleX {
   -webkit-transform: scaleX(0.75);
-          transform: scaleX(0.75);
+  transform: scaleX(0.75);
 }
 
-.scaleY {
+/*.scaleY {
   -webkit-transform: scaleY(0.75);
           transform: scaleY(0.75);
 }
