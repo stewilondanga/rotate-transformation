@@ -40,13 +40,13 @@ body {
 }
 
 .letter {
-  height: 90px;
-  width: 90px;
-  border-radius: 50%;
-  line-height: 90px;
+  height: 80px;
+  width: 80px;
+  border-radius: 40%;
+  line-height: 80px;
   text-align: center;
-  margin: 5px;
-  font-size: 32px;
+  margin: 4px;
+  font-size: 22px;
   font-weight: bold;
 }
 
