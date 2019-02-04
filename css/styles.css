@@ -181,12 +181,12 @@ td {
   transform: scaleY(0.75);
 }
 
-/*.scaleZ {
+.scaleZ {
   -webkit-transform: scaleZ(0.75);
-          transform: scaleZ(0.75);
+  transform: scaleZ(0.75);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
