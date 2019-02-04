@@ -122,11 +122,11 @@ td {
   background-color: #5500ff;
 }
 
-/*.color-8 {
+.color-8 {
   background-color: #7f00ff;
 }
 
-.translateX {
+/*.translateX {
   -webkit-transform: translateX(45%);
           transform: translateX(45%);
 }
