@@ -146,12 +146,12 @@ td {
   transform: rotateX(45deg);
 }
 
-/*.rotateY {
+.rotateY {
   -webkit-transform: rotateY(45deg);
-          transform: rotateY(45deg);
+  transform: rotateY(45deg);
 }
 
-.rotateZ {
+/*.rotateZ {
   -webkit-transform: rotateZ(45deg);
           transform: rotateZ(45deg);
 }
