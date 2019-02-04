@@ -161,12 +161,12 @@ td {
   transform: skewX(15deg);
 }
 
-/*.skewY {
+.skewY {
   -webkit-transform: skewY(45deg);
-          transform: skewY(45deg);
+  transform: skewY(45deg);
 }
 
-.skew {
+/*.skew {
   -webkit-transform: skew(15deg, 45deg);
           transform: skew(15deg, 45deg);
 }
