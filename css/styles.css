@@ -126,12 +126,12 @@ td {
   background-color: #7f00ff;
 }
 
-/*.translateX {
+.translateX {
   -webkit-transform: translateX(45%);
-          transform: translateX(45%);
+  transform: translateX(45%);
 }
 
-.translateY {
+/*.translateY {
   -webkit-transform: translateY(45%);
           transform: translateY(45%);
 }
