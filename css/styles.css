@@ -64,14 +64,14 @@ article {
   text-align: center;
 }
 
-/*table {
+table {
   width: 100%;
   border-collapse: collapse;
   border-radius: 5px;
   margin-bottom: 25px;
 }
 
-tr > td {
+/*tr > td {
   border: 2px solid #fff;
 }
 
