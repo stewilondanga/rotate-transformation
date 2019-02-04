@@ -80,7 +80,7 @@ td {
   white-space: nowrap;
 }
 
-/*.header {
+.header {
   width: 175px;
   background: #fff;
   font-family: 'Raleway', sans-serif;
@@ -90,7 +90,7 @@ td {
   border: 2px solid #fff;
 }
 
-.color-0 {
+/*.color-0 {
   background-color: #00d5ff;
 }
 
