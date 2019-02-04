@@ -51,11 +51,11 @@ body {
 }
 
 .code {
-  width: 90px;
-  height: 12px;
-  font-size: 13px;
+  width: 80px;
+  height: 11px;
+  font-size: 10px;
   text-align: center;
-  margin: 5px;
+  margin: 4px;
 }
 
 /*article {
