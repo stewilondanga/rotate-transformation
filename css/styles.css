@@ -39,7 +39,7 @@ body {
   flex-direction: row;
 }
 
-/*.letter {
+.letter {
   height: 90px;
   width: 90px;
   border-radius: 50%;
@@ -50,7 +50,7 @@ body {
   font-weight: bold;
 }
 
-.code {
+/*.code {
   width: 90px;
   height: 12px;
   font-size: 13px;
