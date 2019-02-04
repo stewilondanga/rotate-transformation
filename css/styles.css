@@ -50,7 +50,7 @@ body {
   font-weight: bold;
 }
 
-/*.code {
+.code {
   width: 90px;
   height: 12px;
   font-size: 13px;
@@ -58,7 +58,7 @@ body {
   margin: 5px;
 }
 
-article {
+/*article {
   margin: 50px 0 15px 0;
   line-height: 1.5em;
   text-align: center;
