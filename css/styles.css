@@ -176,12 +176,12 @@ td {
   transform: scaleX(0.75);
 }
 
-/*.scaleY {
+.scaleY {
   -webkit-transform: scaleY(0.75);
-          transform: scaleY(0.75);
+  transform: scaleY(0.75);
 }
 
-.scaleZ {
+/*.scaleZ {
   -webkit-transform: scaleZ(0.75);
           transform: scaleZ(0.75);
 }
