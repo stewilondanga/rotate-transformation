@@ -71,11 +71,11 @@ table {
   margin-bottom: 25px;
 }
 
-/*tr > td {
+tr>td {
   border: 2px solid #fff;
 }
 
-td {
+/*td {
   padding: 5px;
   white-space: nowrap;
 }
